@@ -27,21 +27,21 @@ The output is a 1500x500 pixel PNG image with a unique timestamp-based filename.
 1. Clone this repository:
 
    ```bash
-   git  clone  https://github.com/yourusername/background-generator.git
-   cd  background-generator
+   git clone https://github.com/topogoogles/background-generator.git
+   cd background-generator
    ```
 
 2. Create and activate a virtual environment:
 
    ```bash
-   python  -m  venv  .venv
-   source  .venv/bin/activate  # On Windows, use: .venv\Scripts\activate
+   python -m venv .venv
+   source .venv/bin/activate # On Windows, use: .venv\Scripts\activate
    ```
 
 3. Install dependencies:
 
    ```bash
-   pip  install  -r  requirements.txt
+   pip install -r requirements.txt
    ```
 
 ## Usage
@@ -50,7 +50,7 @@ The output is a 1500x500 pixel PNG image with a unique timestamp-based filename.
 2. Run the generator:
 
    ```bash
-   python  background-generator.py
+   python background-generator.py
    ```
 
 The script will:
