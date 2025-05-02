@@ -61,6 +61,7 @@ The script will:
 
 ## Project Structure
 
+```text
 background-generator/
 ├── assets/ # Directory for base tile images
 │ ├── carrot.png # Base tile image (300x300px)
@@ -71,7 +72,7 @@ background-generator/
 ├── background-generator.py # Main script
 ├── pyproject.toml # Project configuration and dependencies
 └── README.md # This file
-
+```
 ## Customization
 
 You can modify the following parameters in `background-generator.py`:
