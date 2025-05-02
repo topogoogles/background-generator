@@ -82,6 +82,15 @@ You can modify the following parameters in `background-generator.py`:
 - Scale range (default: 0.1 to 0.8)
 - Rotation range (default: 0 to 360 degrees)
 - Transparency range (default: 50% to 100%)
+
+## Example Generated Backgrounds
+
+<p align="center">
+  <img src="creations/your_image1.png" width="300"/>
+  <img src="creations/your_image2.png" width="300"/>
+  <img src="creations/your_image3.png" width="300"/>
+  <img src="creations/your_image4.png" width="300"/>
+</p>
   
 ## License
 
