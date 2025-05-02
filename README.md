@@ -86,10 +86,10 @@ You can modify the following parameters in `background-generator.py`:
 ## Example Generated Backgrounds
 
 <p align="center">
-  <img src="creations/your_image1.png" width="300"/>
-  <img src="creations/your_image2.png" width="300"/>
-  <img src="creations/your_image3.png" width="300"/>
-  <img src="creations/your_image4.png" width="300"/>
+  <img src="creations/dynamic_mosaic_1746180018.png" width="300"/>
+  <img src="creations/dynamic_mosaic_1746179509.png" width="300"/>
+  <img src="creations/dynamic_mosaic_1746181005.png" width="300"/>
+  <img src="creations/dynamic_mosaic_1746180519.png" width="300"/>
 </p>
   
 ## License
